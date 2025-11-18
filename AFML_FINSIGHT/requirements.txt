@@ -1,0 +1,10 @@
+google-generativeai
+python-dotenv
+pandas
+yfinance
+fredapi
+sec-edgar-api
+requests
+plotly
+kaleido
+streamlit
